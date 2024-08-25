@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 main() {
+
+     //editando o arquivo
      
      int valor;
      
